@@ -12,12 +12,12 @@ I love to Soccer, Basketball, and Baseball
 Manchester United, San Antonio Spurs, and New York Yankees Fan  
 
 My interest are  
-1.Sports
-2.Video Games
-3.History
-4.Art
-5.Card Games
-6.Chess
-7.Travelling
+*Sports
+*Video Games
+*History
+*Art
+*Card Games
+*Chess
+*Travelling
 
 Spanish and English Speaker  
