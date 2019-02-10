@@ -20,7 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | [Github issue]  [w2 issue report]  |  issue reporting   | Link is not redirecting to the blog  |
+|  2   | [w2 issue report]  |  issue reporting   | Link is not redirecting to the blog  |
 |     |     |     |      |
 |     |     |     |      |
 
