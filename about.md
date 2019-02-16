@@ -8,7 +8,7 @@ NYU CS Senior
 
 ### More Information
 
-I love to Soccer, Basketball, and Baseball  
+I love to play Soccer, Basketball, and Baseball  
 Manchester United, San Antonio Spurs, and New York Yankees Fan  
 
 My interest are  
