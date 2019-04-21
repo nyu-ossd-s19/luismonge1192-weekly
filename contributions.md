@@ -37,4 +37,4 @@ Replace the first row with your contribution.
 [Wikipedia 10 (1)]: https://en.wikipedia.org/w/index.php? title=Cosculluela&diff=prev&oldid=893244325
 [Question Chritos]:https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Christos-Bacharakis/_compare/9ab3fc22f8982cf73f643e4c35db2202c98fda21
 [Question Kevin]: https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Kevin-Fleming/_compare/fcc997188b4c41064d1837bb02d1efdace7e6dd0
-[Question Patrick]:https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Patrick-Masson/_compare/3ab023b3b09bdefedacb3ebeb84b7c96ce93919c
+[Question Patrick]: https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Patrick-Masson/_compare/3ab023b3b09bdefedacb3ebeb84b7c96ce93919c
